@@ -1,5 +1,5 @@
 # CovidMaps
-App de mapa interactivo para rastrear el coronavirus ,cerca de su ubicacion, usando servidores,dockerfiles/contenedores 
+Una app que usa contenedores y servidores, para decirle si es seguro salir a la calle o no, segun su ubicacion
 
 
 # Descripcion del trabajo
