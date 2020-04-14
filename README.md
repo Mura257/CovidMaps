@@ -1,5 +1,5 @@
 # CovidMaps
-Una app que usa contenedores y servidores, para decirle si es seguro salir a la calle o no, segun su ubicacion
+Una app que usa contenedores y servidores, para decirle al usuario si es seguro salir a la calle o no, segun su ubicacion
 
 
 # Descripcion del trabajo
