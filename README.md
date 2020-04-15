@@ -6,7 +6,7 @@ Una app interactiva que usa contenedores y servidores, para decirle al usuario s
 
 
 # DockerFile
-Lo primero que tenemos en cuenta sera el dockerfile, este tendra todos los archivos, listos para ser usados en cualquier otro pc, estos archivos seran ubicados en un servidor ubuntu, y estos  archivos estaran escritos en python y usara la libreria flask
+Lo primero que tenemos en cuenta sera el dockerfile, este tendra todos los archivos, listos para ser usados en cualquier otro pc, estos archivos seran ubicados en un servidor ubuntu, y estos  archivos estaran escritos en python y usara la libreria flask, apache, y una configuracion DNS
 
 # registro.html
 Al ingresar a la app, el usuario sera saludado por este archivo, este tendra algo simple, una interfaz grafica de usuario, donde este se podra registrar, ingresar sus datos, y decir si ha tenido o tiene algun familiar que tiene coronavirus, y la ubicacion donde lo tiene, estos datos seran mandado a una BD de MYSQL
