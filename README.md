@@ -1,12 +1,12 @@
 # CovidMaps
-Una app que usa contenedores y servidores, para decirle al usuario si es seguro salir a la calle o no, segun su ubicacion
+Una app interactiva que usa contenedores y servidores, para decirle al usuario si es seguro salir a la calle o no, segun su ubicacion
 
 
-# Descripcion del trabajo
+# Explicacion del diseño de la aplicacion
 
 
 # DockerFile
-Lo primero que tenemos en cuenta sera el dockerfile, este tendra todos los archivos, listos para ser usados en cualquier otro pc, estos archivos seran ubicados en un servidor ubuntu, y estos  archivos estaranescritos en python usando la libreria flask.
+Lo primero que tenemos en cuenta sera el dockerfile, este tendra todos los archivos, listos para ser usados en cualquier otro pc, estos archivos seran ubicados en un servidor ubuntu, y estos  archivos estaran escritos en python y usara la libreria flask
 
 # registro.html
 Al ingresar a la app, el usuario sera saludado por este archivo, este tendra algo simple, una interfaz grafica de usuario, donde este se podra registrar, ingresar sus datos, y decir si ha tenido o tiene algun familiar que tiene coronavirus, y la ubicacion donde lo tiene, estos datos seran mandado a una BD de MYSQL
