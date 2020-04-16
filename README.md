@@ -1,5 +1,5 @@
 # CovidMaps
-Una app interactiva que usa contenedores y servidores, para decirle al usuario si es seguro salir a la calle o no, segun su ubicacion
+App interactiva que usa servidores, contenedores, y servidores en la NUBE AWS, que indicara cuales son los lugares con mas riesgo de contraer coronavirus, en medellin, esta le preguntara informacion al usuario, su nombre, edad, ubicacion y si tiene coronavirus, sospecha que lo tiene, o o no lo tiene, dependiendo si este sospecha o no que lo tiene, se aumentara el riesgo en la zona, si este lo tiene, el riesgo aumenta significativamente, si sospecha, este aumenta levemente y si no tiene, este no aumentara, todos estos procesos estan explicandos a continucacion
 
 
 # Explicacion del diseño de la aplicacion
