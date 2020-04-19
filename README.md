@@ -18,4 +18,4 @@ Aqui es donde el usuario sera redirigido despues de haber ingresado sus datos, e
 En el grafico, se implementara un mapa de medellin, y grafos encima de el, estos estaran situados donde mas allan contagiados en las zonas, o donde se sospechen que hay contagiados
 
 # Basededatosmysql
-Este archivo, tendra toda la informacion de los usuarios que se registren en la app, su nombre, una contraseña, correo y si tiene covid-19 o no, y con esto poner un grafo que represente la persona y su donde este esta ubicado
+Este archivo, tendra toda la informacion de los usuarios que se registren en la app, su nombre, una contraseña, correo y si tiene covid-19 o no, y con esto poner un grafo que represente la persona y  donde esta ubicado
